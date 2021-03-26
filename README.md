@@ -1,3 +1,7 @@
+# Doesn't work anymore
+
+This project does not work with latest changes in how tailscale maintains login data.
+
 # Switch logged-in user of tailscale on Linux
 
 I'm using two accounts with tailscale, wrote this to easily switch the network that should be used.
